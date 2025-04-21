@@ -1,4 +1,4 @@
-from googel.adk.agents import Agent
+from google.adk.agents import Agent
 from google.adk.models.lite_llm import LiteLlm
 from google.adk.runners import Runner
 from google.adk.sessions import InMemorySessionService
