@@ -121,8 +121,8 @@ The frontend is built with **Streamlit**, providing an intuitive interface for u
 <summary><b>1. Clone the Repository</b></summary>
 
 ```bash
-git clone https://github.com/AashiDutt/Google-Agent-Development-Kit-Demo.git
-cd Google-Agent-Development-Kit-Demo
+git@github.com:bright-arparwut/traveling-planer-agents-A2A.git
+cd traveling-planer-agents-A2A
 ```
 </details>
 
