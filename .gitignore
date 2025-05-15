@@ -1,5 +1,7 @@
 .qodo
+.venv
 .env
+.lab
 .agent/activities_agent
 .agent/flight_agent
 .agent/stay_agent
@@ -18,3 +20,4 @@ common/__pycache__/a2a_client.cpython-39.pyc
 agents/stay_agent/__pycache__/task_manager.cpython-39.pyc
 agents/stay_agent/__pycache__/agent.cpython-39.pyc
 common/__pycache__/a2a_server.cpython-39.pyc
+.python-version
